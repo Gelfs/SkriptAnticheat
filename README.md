@@ -1,0 +1,2 @@
+# SkriptAnticheat
+Anticheat
